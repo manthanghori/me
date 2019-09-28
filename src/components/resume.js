@@ -36,10 +36,10 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>Truebil, Mumbai</h3>
-                <p className="info">Software Development Intern (FullStack)<span>&bull;</span> <em className="date">Jan 2019 - Present</em></p>
+                <h3><a href="https://truebil.com/">Truebil</a>, Mumbai</h3>
+                <p className="info">Software Development Engineer (Frontend)<span>&bull;</span> <em className="date">Jan 2019 - Present</em></p>
                 <p>
-                  As part of my internship, I am working on js frameworks like Reactjs, Redux and Nextjs which are used in truebil mobile progressive web app with server side rendering in node js and I am also working on CakePHP module which is used in truebil desktop websites.
+                  I am working on js frameworks like Reactjs, Redux and Nextjs which are used in truebil mobile progressive web app with server side rendering in node js and I am also working on CakePHP module which is used in truebil desktop websites.
                 </p>
               </div>
             </div>
