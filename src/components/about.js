@@ -6,22 +6,21 @@ class About extends Component {
       <div id="about">
         <div className="row">
           <div className="three columns">
-            <img className="profile-pic" src="images/jay.jpg" alt="" />
+            <img className="profile-pic" src="images/manthan.jpg" alt="" />
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>Building state-of-the-art, easy to use, User-Friendly Web App is truly a passion of mine. I actively seek out new technologies and stay up-to-date on industry trends and advancements.
-               </p>
+            <p>I am an optimistic person, intrested to know what are  happening around the globe, eager to learn new things and always ready to deliver them with others, also ready for new challenges, getting more focused, valued, practical.</p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
-                  <span>Jay Patel</span><br />
-                  <span>Shukan Rivera<br />
+                  <span>Manthan Ghori</span><br />
+                   <span> 
                     Surat, Gujarat 395004 IN
                   </span>
                   <br />
-                  <span>jaypatel199700@gmail.com</span>
+                  <span>manthanghori129@gmail.com</span>
                 </p>
               </div>
               <div className="columns download">
@@ -30,7 +29,7 @@ class About extends Component {
                 </p>
               </div>
             </div>
-          </div> ]
+          </div>
         </div>
       </div>
     );

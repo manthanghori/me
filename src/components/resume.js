@@ -11,13 +11,13 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (Gujarat) </h3>
-                <p className="info">Information And Communication Technology<span>&bull;</span> <em className="date">July 2015 - Present</em></p>
+                <h3>Sarvajanik College of Engineering & Technology, Surat, Gujarat</h3>
+                <p className="info">Chemical Engineering<span>&bull;</span> <em className="date">Aug 2015 - May 2019</em></p>
               </div>
             </div>
             <div className="row item">
               <div className="twelve columns">
-                <h3>DD Radadiya, Surat (Gujarat)</h3>
+                <h3>P P Savani Vidhya Bhavan</h3>
                 <p className="info">Intermediate/+2<span>&bull;</span> <em className="date">2013 - 2015 </em></p>
               </div>
             </div>
@@ -36,19 +36,10 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3><a href="https://truebil.com/">Truebil</a>, Mumbai</h3>
-                <p className="info">Software Development Engineer (Frontend)<span>&bull;</span> <em className="date">Jan 2019 - Present</em></p>
+                <h3>GNFS, Bharuch</h3>
+                <p className="info">Vocational Training<span>&bull;</span> <em className="date">Jun 2018 - July 2018</em></p>
                 <p>
-                  I am working on js frameworks like Reactjs, Redux and Nextjs which are used in truebil mobile progressive web app with server side rendering in node js and I am also working on CakePHP module which is used in truebil desktop websites.
-                </p>
-              </div>
-            </div>
-            <div className="row item">
-              <div className="twelve columns">
-                <h3>Otter-Trotter, Ahmedabad</h3>
-                <p className="info">Product Development Intern <span>&bull;</span> <em className="date">May 2018 - July 2018</em></p>
-                <p>
-                  Developed merchant side web application using Reactjs and Redux. In this web app users gives inquiry to our system about their holiday plans and then according to this information our system gives day wise itinerary of their trips.
+                  I got to know that several fertilizer unit operation and unit procceses, analyzed P&ID and DI diagrama and learned how to operate process equipment. A Safty precuations also taught.
                 </p>
               </div>
             </div>
@@ -61,13 +52,14 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <div className="bars">
               <ul className="skills">
-                <BarExpand name={"Reactjs"} fill={'90%'}/>
-                <BarExpand name={"Redux"} fill={'75%'} />
-                <BarExpand name={"Nextjs"} fill={'80%'} />
-                <BarExpand name={"JavaScript"} fill={'75%'}/>
-                <BarExpand name={"CSS"} fill={'70%'}/>
-                <BarExpand name={"HTML"} fill={'75%'}/>
-                <BarExpand name={"C++"} fill={'85%'}/>
+                <BarExpand name={"SciLab"} fill={'70%'}/>
+                <BarExpand name={"Aspam"} fill={'75%'} />
+                <BarExpand name={"Microsoft Office"} fill={'80%'} />
+                <BarExpand name={"Organic Chemistry"} fill={'90%'}/>
+                <BarExpand name={"Teaching"} fill={'80%'}/>
+                <BarExpand name={"Process Calculation"} fill={'75%'}/>
+                <BarExpand name={"Analyticle Techniques"} fill={'75%'}/>
+                <BarExpand name={"C"} fill={'75%'}/>
               </ul>
             </div>
           </div>

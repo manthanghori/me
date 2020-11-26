@@ -16,14 +16,13 @@ class Header extends Component {
         </nav>
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">Jay Patel</h1>
-            <h3>I'm a <span>Web Developer</span>, <span>Competitive Programmer</span> and <span>Technology Geek</span> creating awesome and
-              effective visual web. Let's <a className="smoothscroll" href="#about">start scrolling </a>
+            <h1 className="responsive-headline">Manthan Ghori</h1>
+            <h3>I am an <span>Optimistic person</span>, intrested to know what are  happening around the globe, <span>Eager to learn </span> new things and always ready to deliver them with others, also ready for new challenges, getting more focused, valued, practical.. Let's <a className="smoothscroll" href="#about">start scrolling </a>
               and learn more <a className="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
             <ul className="social">
-              <li><a href="https://github.com/Jay341997" target="_blank"><i className="fa fa-github"></i></a></li>
-              <li><a href="https://www.linkedin.com/in/jay-patel-b83b97126/" target="_blank"><i className="fa fa-linkedin"></i></a></li>
+              <li><a href="https://github.com/manthanghori" target="_blank"><i className="fa fa-github"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/manthan-ghori-5911131b1" target="_blank"><i className="fa fa-linkedin"></i></a></li>
             </ul>
           </div>
         </div>
